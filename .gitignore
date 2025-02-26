@@ -1,0 +1,123 @@
+# Sistema Operacional
+####################
+# Arquivos de sistema do macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails do Linux
+*.directory
+
+# Arquivos de sistema do Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Log de erro do Windows
+*.stackdump
+
+
+# IDEs e Editores de Texto
+##########################
+# Configurações do VSCode
+.vscode/
+*.code-workspace
+
+# Configurações do JetBrains (IntelliJ, PyCharm, etc.)
+.idea/
+*.iml
+
+# Configurações do Sublime Text
+*.sublime-project
+*.sublime-workspace
+
+# Configurações do Eclipse
+.metadata/
+*.tmp
+*.bak
+*.swp
+
+# Outros ficheiros de configuração de editores
+*.komodoproject
+*.komodotools
+*.esproj
+*.tmproj
+*.hproj
+
+# Backup de editores de texto
+*~
+
+
+# Ambientes de Desenvolvimento
+##############################
+# Node.js (caso haja integração com projetos JavaScript)
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Ficheiros de ambiente
+.env
+.env.development
+.env.production
+.env.test
+
+# Ficheiros de configuração e lock files
+package-lock.json
+
+
+# TypeScript
+##############################
+# Diretórios de build
+dist/
+build/
+
+# Ficheiros de configuração de TypeScript
+*.tsbuildinfo
+
+
+# Ficheiros de Logs e Temporários
+###############################
+logs
+*.log
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+*.swn
+*.seed
+
+
+# Ficheiros de Cache e Bases de Dados
+###############################
+*.cache
+*.sqlite
+*.sqlite3
+*.db
+
+
+# Python
+###############################
+# Cache e ficheiros compilados
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribuição e ficheiros de construção
+*.egg-info/
+.eggs/
+pip-wheel-metadata/
+*.egg
+build/
+dist/
+
+
+# Notebooks Jupyter / IPython
+###############################
+.ipynb_checkpoints/
+
+
+# Outros
+###############################
+# Ignorar ficheiros específicos do projeto (personalize conforme necessário)
