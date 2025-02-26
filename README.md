@@ -8,9 +8,6 @@ This project is a learning exercise to predict the price of pizzas using data an
 - [Technologies Used](#technologies-used)
 - [How to Run the Project](#how-to-run-the-project)
 - [Project Structure](#project-structure)
-- [Contributions](#contributions)
-- [Licence](#licence)
-- [Contact](#contact)
 
 ## Introduction
 
