@@ -36,17 +36,17 @@ This project is a learning exercise to predict the price of pizzas using data an
 
 2. **Create and activate a virtual environment:**
 
-  ```bash
-  python -m venv venv
-  # Activation on Linux/Mac:
-  source venv/bin/activate
-  # Activation on Windows:
-  venv\Scripts\activate
-  ```
+    ```bash
+    python -m venv venv
+    # Activation on Linux/Mac:
+    source venv/bin/activate
+    # Activation on Windows:
+    venv\Scripts\activate
+    ```
 
 3. **Install the dependencies:**
 
-```bash
-pip install -r requirements.txt
-```
+  ```bash
+  pip install -r requirements.txt
+  ```
 
